@@ -22,7 +22,9 @@ you will also need information for the smtp serve you want to connect to in a fi
     "Port":"587"
 }
 ```
-You can use any smtp server that you  have acess to but if you need one, I was able to send email through gmails smtp interface with this documentation from google https://support.google.com/accounts/answer/185833
+You can use any smtp server that you  have acess to but if you need one, I was able to send email through gmails smtp interface with this documentation from google here  https://support.google.com/a/answer/176600?hl=en 
+
+https://support.google.com/accounts/answer/185833
 
 once you have these files in the directory of the go file you just need to run `go run secretSanta.go`
 
